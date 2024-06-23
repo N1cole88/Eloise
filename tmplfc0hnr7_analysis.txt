@@ -1,0 +1,858 @@
+Speaker ID: spk_1
+Transcribed Text: called this meeting today to discuss your pun over
+Time: 38.73s - 41.93s
+
+Top 3 Emotions:
+  - Concentration: 0.3513
+  - Calmness: 0.2729
+  - Determination: 0.2406
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: the last six weeks. That gave you some feedback
+Time: 41.93s - 44.98s
+
+Top 3 Emotions:
+  - Calmness: 0.2877
+  - Contemplation: 0.1593
+  - Relief: 0.0943
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: on this a few weeks ago, but it
+Time: 44.98s - 47.47s
+
+Top 3 Emotions:
+  - Contemplation: 0.3474
+  - Calmness: 0.2413
+  - Disappointment: 0.2078
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: seems to have continued. Specifically,
+Time: 47.47s - 50.28s
+
+Top 3 Emotions:
+  - Determination: 0.5225
+  - Concentration: 0.4388
+  - Calmness: 0.4385
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: there've been seven examples of your Bay lee in the last six weeks.
+Time: 50.76s - 54.26s
+
+Top 3 Emotions:
+  - Calmness: 0.3425
+  - Concentration: 0.2229
+  - Contemplation: 0.2091
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: The last three, being Intrusive the fifth when he came in fifteen minutes late.
+Time: 54.82s - 59.59s
+
+Top 3 Emotions:
+  - Concentration: 0.3019
+  - Calmness: 0.2763
+  - Interest: 0.2021
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Wednesday
+Time: 60.16s - 60.66s
+
+Top 3 Emotions:
+  - Calmness: 0.2014
+  - Boredom: 0.0866
+  - Interest: 0.0815
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: thirteenth when you were twenty minutes late and Friday the
+Time: 61.05s - 64.00s
+
+Top 3 Emotions:
+  - Calmness: 0.3148
+  - Concentration: 0.1898
+  - Boredom: 0.1886
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: twenty second when you were you were fifteen minutes late again. I've got
+Time: 64.00s - 67.94s
+
+Top 3 Emotions:
+  - Realization: 0.2165
+  - Nostalgia: 0.1187
+  - Concentration: 0.0930
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: all the examples, you know, on this bit of paper if you if you wanna see, but what
+Time: 67.94s - 71.91s
+
+Top 3 Emotions:
+  - Concentration: 0.5115
+  - Interest: 0.3726
+  - Calmness: 0.2515
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: are your thoughts on that?
+Time: 71.91s - 72.95s
+
+Top 3 Emotions:
+  - Confusion: 0.6538
+  - Interest: 0.3486
+  - Surprise (negative): 0.2624
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: What what times you shift due start?
+Time: 88.50s - 90.89s
+
+Top 3 Emotions:
+  - Anger: 0.2726
+  - Realization: 0.2012
+  - Disappointment: 0.1797
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: no. Not at all. You're right about the start time, Rob. But I would also add, I would expect you to
+Time: 96.66s - 101.23s
+
+Top 3 Emotions:
+  - Disappointment: 0.3544
+  - Determination: 0.2984
+  - Realization: 0.2385
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: I expect you to be at your desk ready to start at eight thirty. Okay.
+Time: 111.44s - 116.32s
+
+Top 3 Emotions:
+  - Determination: 0.4501
+  - Concentration: 0.2038
+  - Calmness: 0.1502
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: You mentioned before that you're not the only one that's leaked. I would like to see
+Time: 116.80s - 121.26s
+
+Top 3 Emotions:
+  - Contemplation: 0.4462
+  - Interest: 0.3315
+  - Doubt: 0.2182
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: that this is about you today and is totally confidential.
+Time: 121.26s - 125.09s
+
+Top 3 Emotions:
+  - Realization: 0.2428
+  - Determination: 0.2409
+  - Concentration: 0.2045
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Equally. I will have similar conversations with others in the team if it's appropriate.
+Time: 125.82s - 130.21s
+
+Top 3 Emotions:
+  - Calmness: 0.4862
+  - Concentration: 0.3994
+  - Determination: 0.2764
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Okay.
+Time: 131.01s - 131.25s
+
+Top 3 Emotions:
+  - Calmness: 0.1354
+  - Awkwardness: 0.1313
+  - Boredom: 0.0940
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: K. And and what impact do you think you being lead has?
+Time: 149.57s - 152.82s
+
+Top 3 Emotions:
+  - Interest: 0.2200
+  - Concentration: 0.1740
+  - Confusion: 0.1290
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Well, actually, at Tuesday the twenty ninth you were ten minutes late.
+Time: 157.37s - 160.95s
+
+Top 3 Emotions:
+  - Calmness: 0.2023
+  - Interest: 0.1714
+  - Concentration: 0.1691
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Well, actually the wood because the system announces your name when you join the
+Time: 174.99s - 179.38s
+
+Top 3 Emotions:
+  - Interest: 0.4587
+  - Contemplation: 0.2913
+  - Concentration: 0.2810
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: call to how do you think that looks on us as a company? Probably
+Time: 179.38s - 185.45s
+
+Top 3 Emotions:
+  - Doubt: 0.5496
+  - Concentration: 0.2804
+  - Contemplation: 0.2526
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Yeah. And how does this impact on the rest of the team?
+Time: 189.91s - 192.47s
+
+Top 3 Emotions:
+  - Calmness: 0.2624
+  - Interest: 0.2620
+  - Concentration: 0.2498
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: So, Rob, you you've said that you just used to
+Time: 199.98s - 202.53s
+
+Top 3 Emotions:
+  - Distress: 0.3052
+  - Disappointment: 0.2929
+  - Anger: 0.2439
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: come in at that time. What are the reasons behind that?
+Time: 202.53s - 205.01s
+
+Top 3 Emotions:
+  - Contempt: 0.1804
+  - Anger: 0.1792
+  - Interest: 0.1519
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Well, I appreciate your previous manager soul might not have picture on it, and
+Time: 212.92s - 217.40s
+
+Top 3 Emotions:
+  - Admiration: 0.4325
+  - Satisfaction: 0.2835
+  - Contentment: 0.1930
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: I've only been here a few weeks. I'm still trying to get me head around how everything works. So
+Time: 217.56s - 223.19s
+
+Top 3 Emotions:
+  - Tiredness: 0.2776
+  - Anxiety: 0.2156
+  - Distress: 0.2090
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: what would you do if you were in my position?
+Time: 223.56s - 225.31s
+
+Top 3 Emotions:
+  - Confusion: 0.4209
+  - Interest: 0.2613
+  - Calmness: 0.2226
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: So from the conversation so far,
+Time: 229.85s - 231.85s
+
+Top 3 Emotions:
+  - Interest: 0.2533
+  - Calmness: 0.2346
+  - Concentration: 0.2104
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: can you agree with me that there is an issue and it needs to be addressed?
+Time: 232.89s - 236.56s
+
+Top 3 Emotions:
+  - Realization: 0.3090
+  - Contemplation: 0.1956
+  - Calmness: 0.1864
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: conversations, but this is about your.
+Time: 243.33s - 245.26s
+
+Top 3 Emotions:
+  - Excitement: 0.1838
+  - Interest: 0.1543
+  - Amusement: 0.1432
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Can you agree that there is an issue?
+Time: 246.20s - 247.95s
+
+Top 3 Emotions:
+  - Realization: 0.3856
+  - Doubt: 0.2589
+  - Contempt: 0.2582
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Yeah.
+Time: 250.89s - 251.05s
+
+Top 3 Emotions:
+  - Calmness: 0.1752
+  - Interest: 0.1003
+  - Satisfaction: 0.0936
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Okay. So what you're gonna do to move forward?
+Time: 252.40s - 255.34s
+
+Top 3 Emotions:
+  - Interest: 0.5128
+  - Concentration: 0.4835
+  - Determination: 0.3120
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: if you're in my position and this wasn't to change, what would you do?
+Time: 269.16s - 272.36s
+
+Top 3 Emotions:
+  - Confusion: 0.2701
+  - Sympathy: 0.2236
+  - Awkwardness: 0.1812
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Have to agree with you your rob. I think in the short term, if your late, didn't
+Time: 278.36s - 282.68s
+
+Top 3 Emotions:
+  - Calmness: 0.2462
+  - Contemplation: 0.2276
+  - Disappointment: 0.1842
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: improve then it would affect your performance review written, but
+Time: 282.68s - 286.84s
+
+Top 3 Emotions:
+  - Concentration: 0.2389
+  - Calmness: 0.2189
+  - Contemplation: 0.1949
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: in the longer term, it could turn into a disciplinary situation.
+Time: 286.84s - 290.36s
+
+Top 3 Emotions:
+  - Concentration: 0.5409
+  - Determination: 0.3526
+  - Contemplation: 0.3245
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: Now neither of us want that to happen, and there's no need for it to
+Time: 290.84s - 293.95s
+
+Top 3 Emotions:
+  - Calmness: 0.3598
+  - Determination: 0.2792
+  - Interest: 0.2050
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: happen, you know? So, I'll look forward
+Time: 293.95s - 297.12s
+
+Top 3 Emotions:
+  - Interest: 0.4298
+  - Awkwardness: 0.3191
+  - Determination: 0.1805
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Transcribed Text: to seeing you at your desk tomorrow would eat thirty. Is
+Time: 297.12s - 300.55s
+
+Top 3 Emotions:
+  - Amusement: 0.5089
+  - Interest: 0.3282
+  - Joy: 0.3207
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: Hi, Rob. Emery. Thanks for coming in. How did the conference
+Time: 20.62s - 24.19s
+
+Top 3 Emotions:
+  - Interest: 0.5747
+  - Joy: 0.3656
+  - Excitement: 0.2486
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: call go this morning? Structured Yeah. It was fine. I mean, the time difference is always
+Time: 24.19s - 27.78s
+
+Top 3 Emotions:
+  - Contemplation: 0.4141
+  - Realization: 0.2686
+  - Doubt: 0.1736
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: a good solution for the production team. Oh, that's good all. I'll
+Time: 31.21s - 34.81s
+
+Top 3 Emotions:
+  - Interest: 0.4925
+  - Satisfaction: 0.3730
+  - Contentment: 0.2661
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: catch it with Walter a bit lead. I see if there's anything else he needs from us. Yeah. I
+Time: 34.81s - 38.73s
+
+Top 3 Emotions:
+  - Interest: 0.2722
+  - Calmness: 0.2285
+  - Contemplation: 0.1782
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: around here. Yeah. Well, hear what you're saying, Rob, and we'll come back to that later.
+Time: 83.47s - 87.54s
+
+Top 3 Emotions:
+  - Interest: 0.3312
+  - Contentment: 0.1857
+  - Calmness: 0.1515
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: I think we both know that it's half past day are you trying to trip me up or No. No
+Time: 92.10s - 96.66s
+
+Top 3 Emotions:
+  - Awkwardness: 0.3617
+  - Doubt: 0.2364
+  - Distress: 0.1725
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: be at your desk, ready to start a day thirty and not just simply be in the building. Yeah.
+Time: 101.23s - 106.17s
+
+Top 3 Emotions:
+  - Calmness: 0.4204
+  - Concentration: 0.2539
+  - Determination: 0.2402
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: But everyone makes a cup of coffee before they go to their desk. One Not fine to make a cup of coffee, but
+Time: 106.41s - 111.28s
+
+Top 3 Emotions:
+  - Amusement: 0.3907
+  - Awkwardness: 0.2136
+  - Disappointment: 0.2051
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: So what are the reasons for you being late rob? But.
+Time: 131.97s - 134.76s
+
+Top 3 Emotions:
+  - Determination: 0.1902
+  - Interest: 0.1892
+  - Concentration: 0.1511
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: And this impacted on a conference call with one of the client? Oh, yeah. But it didn't
+Time: 161.60s - 165.89s
+
+Top 3 Emotions:
+  - Interest: 0.2339
+  - Disappointment: 0.1871
+  - Amusement: 0.1818
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: delay the call. They started without me. Well, no. But how do you think
+Time: 165.89s - 170.18s
+
+Top 3 Emotions:
+  - Calmness: 0.2984
+  - Doubt: 0.2662
+  - Disappointment: 0.1681
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: it looked to the client, you come in ten minutes late on the call. Well, they wouldn't have realized.
+Time: 170.18s - 174.67s
+
+Top 3 Emotions:
+  - Realization: 0.1713
+  - Calmness: 0.1383
+  - Nostalgia: 0.1177
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: They end up answering questions that I should answer. Yeah. Yeah. Okay.
+Time: 194.88s - 199.18s
+
+Top 3 Emotions:
+  - Concentration: 0.4098
+  - Calmness: 0.3641
+  - Determination: 0.3103
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: Don't wanna picked up on it before if it's okay once, it's okay again. Right.
+Time: 207.73s - 212.19s
+
+Top 3 Emotions:
+  - Anxiety: 0.1873
+  - Awkwardness: 0.1808
+  - Calmness: 0.1724
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: the only new one. Oh, no. No. And I've said, I will have similar
+Time: 240.39s - 242.95s
+
+Top 3 Emotions:
+  - Determination: 0.3337
+  - Anger: 0.1862
+  - Anxiety: 0.1496
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: I'm gonna be at my desk by half aid. Okay. Rob, that's
+Time: 256.78s - 260.12s
+
+Top 3 Emotions:
+  - Joy: 0.3277
+  - Excitement: 0.2877
+  - Satisfaction: 0.2501
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: great here. And when will this start. Tomorrow.
+Time: 260.12s - 264.44s
+
+Top 3 Emotions:
+  - Calmness: 0.6031
+  - Concentration: 0.3253
+  - Contemplation: 0.2655
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: I'll be at my desk at eight thirty tomorrow. Okay. That's great. Now
+Time: 264.75s - 269.01s
+
+Top 3 Emotions:
+  - Satisfaction: 0.3038
+  - Calmness: 0.2386
+  - Triumph: 0.1650
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: I I suppose we'd be looking at disciplinary. Yeah.
+Time: 274.13s - 277.40s
+
+Top 3 Emotions:
+  - Boredom: 0.5386
+  - Contemplation: 0.4274
+  - Doubt: 0.3719
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: there anything you'd like to clarify or ask? God. No.
+Time: 300.55s - 303.65s
+
+Top 3 Emotions:
+  - Interest: 0.2840
+  - Awkwardness: 0.1766
+  - Distress: 0.1574
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Transcribed Text: That's fine. Okay, Rob. Well, thank you very much for your time.
+Time: 303.88s - 306.42s
+
+Top 3 Emotions:
+  - Calmness: 0.4677
+  - Boredom: 0.1823
+  - Contentment: 0.1459
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: difficult to work around, but I think what came up with a
+Time: 27.78s - 30.83s
+
+Top 3 Emotions:
+  - Contemplation: 0.4806
+  - Awkwardness: 0.2554
+  - Doubt: 0.1953
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: Well,
+Time: 75.19s - 75.43s
+
+Top 3 Emotions:
+  - Anger: 0.1335
+  - Calmness: 0.1186
+  - Distress: 0.0925
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: I'm not gonna deny it,
+Time: 76.62s - 77.65s
+
+Top 3 Emotions:
+  - Distress: 0.2697
+  - Anxiety: 0.2436
+  - Determination: 0.2305
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: to be fair though I mean I'm not the only person who's doing it where pretty relaxed
+Time: 78.76s - 83.47s
+
+Top 3 Emotions:
+  - Contemplation: 0.4411
+  - Doubt: 0.3129
+  - Awkwardness: 0.2969
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: Don't know.
+Time: 135.89s - 136.28s
+
+Top 3 Emotions:
+  - Doubt: 0.6052
+  - Confusion: 0.4211
+  - Surprise (negative): 0.1974
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: Well,
+Time: 140.34s - 140.50s
+
+Top 3 Emotions:
+  - Calmness: 0.1734
+  - Boredom: 0.0848
+  - Amusement: 0.0594
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: I suppose I just got used to coming in at that time.
+Time: 141.21s - 144.40s
+
+Top 3 Emotions:
+  - Doubt: 0.9258
+  - Contemplation: 0.4695
+  - Disappointment: 0.4562
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: There's no big reason. Maybe the traffic was bad a few times.
+Time: 145.60s - 148.70s
+
+Top 3 Emotions:
+  - Disappointment: 0.6388
+  - Sadness: 0.5108
+  - Realization: 0.3096
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: Don't think it has a big impact on anyone really.
+Time: 154.66s - 156.73s
+
+Top 3 Emotions:
+  - Disappointment: 0.1948
+  - Anxiety: 0.1662
+  - Awkwardness: 0.1372
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: that we're not reliable?
+Time: 187.67s - 188.71s
+
+Top 3 Emotions:
+  - Doubt: 0.3534
+  - Contemplation: 0.2078
+  - Confusion: 0.1845
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: I'd probably do the same.
+Time: 227.93s - 229.04s
+
+Top 3 Emotions:
+  - Realization: 0.3631
+  - Determination: 0.2567
+  - Calmness: 0.2232
+
+--------------------------------------------------
+
+Speaker ID: spk_2
+Transcribed Text: Yeah. But as I said earlier, everyone does it, I'm not
+Time: 237.77s - 240.39s
+
+Top 3 Emotions:
+  - Awkwardness: 0.2105
+  - Disappointment: 0.1605
+  - Calmness: 0.1361
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Transcribed Text: Marie has been in the position of Team lee for the last month, and she's
+Time: 6.47s - 10.24s
+
+Top 3 Emotions:
+  - Interest: 0.7487
+  - Concentration: 0.3444
+  - Excitement: 0.3100
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Transcribed Text: already had a couple of informal chats with Rob about his late. She's
+Time: 10.24s - 14.39s
+
+Top 3 Emotions:
+  - Interest: 0.3678
+  - Disappointment: 0.2416
+  - Sympathy: 0.1976
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Transcribed Text: called him into one of the meeting rooms today as she wants to
+Time: 14.39s - 16.95s
+
+Top 3 Emotions:
+  - Interest: 0.6946
+  - Calmness: 0.2460
+  - Excitement: 0.1872
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Transcribed Text: have a cedar structured conversation with him about this.
+Time: 16.95s - 19.19s
+
+Top 3 Emotions:
+  - Determination: 0.5396
+  - Concentration: 0.5104
+  - Interest: 0.2301
+
+--------------------------------------------------
+
