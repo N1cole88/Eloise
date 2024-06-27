@@ -17,6 +17,10 @@ app = Flask(__name__)
 # Initialize the OpenAI API key
 # export OPENAI_API_KEY=YOUR API KEY
 openai.api_key = os.environ.get("OPENAI_API_KEY")
+# For twilio
+auth_token = os.environ.get("AUTH_TOKEN")
+account_sid = os.environ.get("ACCOUNT_SID")
+
 
 # Define a function to generate answers using GPT-3
 def generate_answer(question):
@@ -68,8 +72,6 @@ def chatgpt():
         print(media_url)
         #response = requests.get(media_url)
         #response = requests.get(media_url, auth=HTTPBasicAuth(account_sid, auth_token))
-        auth_token = '3fe5f7469207d3676862847587e1aa6c'
-        account_sid = 'ACf3d708846d14988276764a03f92135bd'
         client = Client(account_sid, auth_token)
         response = requests.get(media_url, auth=HTTPBasicAuth(account_sid, auth_token))
         print("Response: ", response)
@@ -84,13 +86,6 @@ def chatgpt():
         print("Deleting temp file...")
         os.unlink(temp_audio_path)
         return str(bot_resp)
-        #client = OpenAI()
-        #audio_file= open(temp_audio_path, "rb")
-        #print("audio file: ",temp_audio_path, "\n", audio_file)
-        #transcript = client.audio.transcriptions.create( model="whisper-1", file=audio_file)
-        #print(transcript['text'])
-        #os.unlink(temp_audio_path)
-        #return transcript['text']
   
         
     
