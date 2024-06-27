@@ -1,0 +1,32 @@
+This is a Whatsapp chatbot application that would take any text prompt or audio files. For audio files, it will generate feedback based on the emotional analysis.
+
+##First terminal##
+
+nicole@nic-tp24:/mnt/c/Users/nicol/Downloads$ sudo ssh -i chatbot.pem ubuntu@ec2-3-145-85-17.us-east-2.compute.amazonaws.com
+
+ubuntu@ip-172-31-12-61:~$ sudo su
+root@ip-172-31-12-61:/home/ubuntu# python3 -m venv venv
+
+root@ip-172-31-12-61:/home/ubuntu# source venv/bin/activate
+
+(venv) root@ip-172-31-12-61:/home/ubuntu# export OPENAI_API_KEY="" ACCOUNT_SID AUTH_TOKEN
+(venv) root@ip-172-31-12-61:/home/ubuntu# python3 bot_app.py
+
+(venv) root@ip-172-31-12-61:/home/ubuntu# # ngrok <auth token for ngrok>
+
+(venv) root@ip-172-31-12-61:/home/ubuntu# python3 bot_app.py
+
+
+##Second Terminal##
+
+nicole@nic-tp24:/mnt/c/Users/nicol/Downloads$  ngrok authtoken <auth token for ngrok>
+
+nicole@nic-tp24:/mnt/c/Users/nicol/Downloads$ sudo su
+
+root@nic-tp24:/mnt/c/Users/nicol/Downloads#  sudo ssh -i "chatbot.pem" ubuntu@ec2-3-145-85-17.us-east-2.compute.amazonaws.com
+
+ubuntu@ip-172-31-12-61:~$ sudo su
+
+root@ip-172-31-12-61:/home/ubuntu# ngrok http 5000
+
+copy the link , extend /chatgpt and put in twilio
